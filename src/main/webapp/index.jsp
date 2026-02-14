@@ -44,11 +44,11 @@
     <h1>❤️ Happy Valentine's Day ❤️</h1>
      <h3> ❤️ Dear oy chikki ❤️ <h3>
     <p>
-        Wishing you a day filled with love, happiness, and sweet moments.
+      ❤️  Wishing you a day filled with love, happiness, and sweet moments ❤️.
     </p>
 
     <p> 
-        I don’t need 100 years with you, Chikki. Even one day with you is enough for my lifetime
+     ❤️   I don’t need 100 years with you, Chikki. Even one day with you is enough for my lifetime ❤️.
     </p>
 
     <p>
