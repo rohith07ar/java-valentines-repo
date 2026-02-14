@@ -42,9 +42,10 @@
 
 <div class="card">
     <h1>❤️ Happy Valentine's Day ❤️</h1>
-     <h3> ❤️ Dear Divya ❤️ <h3>
+     <h3> ❤️ Dear oy chikki ❤️ <h3>
     <p>
         Wishing you a day filled with love, happiness, and sweet moments.
+         I was lucky to have you, and unlucky to lose you. I still don’t understand how it happened
     </p>
 
     <p>
