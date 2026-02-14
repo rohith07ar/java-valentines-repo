@@ -45,7 +45,10 @@
      <h3> ❤️ Dear oy chikki ❤️ <h3>
     <p>
         Wishing you a day filled with love, happiness, and sweet moments.
-         I was lucky to have you, and unlucky to lose you. I still don’t understand how it happened
+    </p>
+
+    <p> 
+        I don’t need 100 years with you, Chikki. Even one day with you is enough for my lifetime
     </p>
 
     <p>
