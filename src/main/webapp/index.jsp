@@ -44,7 +44,7 @@
     <h1>❤️ Happy Valentine's Day ❤️</h1>
 
     <p>
-      ❤️  Wishing you a day filled with love, happiness, and sweet moments ❤️.
+      ❤️  Wishing you a day filled with love, happiness, and sweet moments yes ❤️.
     </p>
 
     <p> 
