@@ -8,7 +8,6 @@
     <groupId>com.valentine</groupId>
     <artifactId>valentines-web</artifactId>
     <version>1.0</version>
-    <scope>test</scope>
     <packaging>war</packaging>
 
 </project>
