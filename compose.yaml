@@ -1,5 +1,5 @@
 ---
-version:
+version: "3"
 servives:
   book:
     container_name: mycont
