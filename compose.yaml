@@ -1,10 +1,9 @@
 ---
 version: "3"
-servives:
+services:
   book:
-    container_name: mycont
     image: rohith03ar/myrepo:valentines
     deploy:
-      - replicas:
+      replicas:
     ports:
       - "1212:8080"
