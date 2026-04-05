@@ -1,0 +1,10 @@
+---
+version:
+servives:
+  book:
+    container_name: mycont
+    image: rohith03ar/myrepo:valentines
+    deploy:
+      - replicas:
+    ports:
+      - "1212:8080"
