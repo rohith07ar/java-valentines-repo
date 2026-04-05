@@ -4,6 +4,6 @@ services:
   book:
     image: rohith03ar/myrepo:valentines
     deploy:
-      replicas:
+      replicas: 2
     ports:
       - "1212:8080"
